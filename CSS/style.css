@@ -63,7 +63,7 @@ header {
     transition: color 0.2s;
 }
 .nav-links a:hover {
-    color: #ffffff;
+    color: #f5f5f5;
 }
 .header h1 {
     font-size: 28px;
